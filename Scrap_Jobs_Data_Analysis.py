@@ -1,4 +1,4 @@
-# Scrap_Jobs_Data_Analysis
+# Web Scrap : Jobs Data Analysis
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
